@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *BeReal Pt2*
 
 Submitted by: **Zamir Piedrahita**
 
@@ -30,6 +30,8 @@ The following **additional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+https://www.loom.com/share/2f50a6c62f5b4ef89378027401c9eb06
 
 ## Notes
 
